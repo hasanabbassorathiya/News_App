@@ -30,7 +30,8 @@ Hot Restart the app.
 
 Don’t forget to star our GitHub repo if you haven’t already!
 
-If you’re enjoying using Refine, a 🌟 goes a long way toward showing others. Everyone counts!
+If you’re enjoying using this News App, a 🌟 goes a long way toward showing others. 
+Everyone counts!
 
 Thank you 🙏
 
