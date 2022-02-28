@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-const api_Key = 'YOUR_API_KEY_HERE';
+const api_Key = 'YOUR_API_KEY';
 const top_headlines =
     'https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=$api_Key';
 const everthing_url =
