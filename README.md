@@ -1,16 +1,35 @@
-# news_app
+# News App By Hasan Abbas Sorathiya
 
-A Tech News  project.
+News App is made using Flutter & Dart for fetching news from [NewsApi](https://newsapi.org/).
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+Use the Flutter [Pub get]() to install all the dependencies.
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Instructions
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```dart
+const api_Key = 'YOUR_API_KEY';//Navigate to Constant.dart and put your API key from (https://www.newsapi.org/).
+
+Hot Restart the app.
+
+```
+
+## Contributing
+
+Don’t forget to star our GitHub repo if you haven’t already!
+
+If you’re enjoying using Refine, a 🌟 goes a long way toward showing others. Everyone counts!
+
+Thank you 🙏
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
